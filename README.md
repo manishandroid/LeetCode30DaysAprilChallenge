@@ -1,4 +1,4 @@
-# LeetCode30DaysAprilChallenge
+# LeetCode 30 Days April Challenge
 Solution of  all  30 day challenges  in Kotlin
 
 **1 Apr 2020 : Day 1 :** Single Number
