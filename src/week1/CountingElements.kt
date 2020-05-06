@@ -45,8 +45,6 @@
 
 package week1
 
-import java.util.*
-
 fun main()
 {
     val arr = intArrayOf(1,3,2,3,5,0)
